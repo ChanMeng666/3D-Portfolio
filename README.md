@@ -1,10 +1,5 @@
 # Personal Portfolio
-### ***You can visit the website here: https://forrest-lin.com***
-
-This is a personal portfolio website for showcasing the work and skills of Forrest Lin.
-
-![My Portfolio Screenshot](public/screenshot.jpeg)
-
+This is a personal portfolio website for showcasing the work and skills of Chan Meng.
 
 ## Technologies Used
 
@@ -34,12 +29,12 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/personal-portfolio.git
+git clone https://github.com/ChanMeng666/3D-Portfolio.git
 ```
 
 2. Change directory to the project folder:
 ```bash
-cd personal-portfolio
+cd 3D-Portfolio
 ```
 
 3. Install the dependencies:
