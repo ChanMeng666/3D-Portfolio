@@ -1,73 +1,68 @@
-# Personal Portfolio
-This is a personal portfolio website for showcasing the work and skills of Chan Meng.
+# Chan Meng's Portfolio
 
-## Technologies Used
+🌐 [Live Demo](https://chanmeng.live/)
+
+## 🚀 Key Features
+
+- Interactive 3D elements using Three.js
+- Responsive design with TailwindCSS
+- Smooth animations with Framer Motion
+- Dynamic content rendering
+- Contact form integration with EmailJS
+- Mobile-friendly interface
+- Custom 3D models and animations
+- Project showcase with detailed descriptions
+- Professional timeline display
+- Interactive tech stack visualization
+
+## 🛠️ Technologies
 
 - React.js
-- React Router Dom
-- Framer Motion
+- Three.js
 - React Three Fiber
 - React Three Drei
-- Three.js
-- React Tilt
-- React Vertical Timeline Component
-- Sass
+- Framer Motion
 - TailwindCSS
+- EmailJS
+- React Router DOM
+- React Vertical Timeline Component
+- React Parallax Tilt
+- Sass
 - Vite.js
 
-## Features
+## 🚦 Getting Started
 
-- Interactive 3D elements
-- Smooth page transitions and animations
-- Responsive design
-- Contact form integration with EmailJS
-- Vertical timeline for project showcases
-
-## Installation and Setup
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
+1. Clone the repository
 ```bash
 git clone https://github.com/ChanMeng666/3D-Portfolio.git
 ```
 
-2. Change directory to the project folder:
+2. Install dependencies
 ```bash
 cd 3D-Portfolio
-```
-
-3. Install the dependencies:
-```bash
 npm install
 ```
 
-4. Start the development server:
+3. Start the development server
 ```bash
 npm run dev
 ```
 
-The website should now be accessible at [http://localhost:5173](http://localhost:5173)
-
-## Build and Deployment
-
-To build the project for production, run the following command:
+4. Build for production
 ```bash
 npm run build
 ```
 
-This will generate the production-ready files in the `dist` folder. You can deploy these files to your preferred hosting service.
+## 📱 Sections
 
-To preview the production build, run the following command:
-```bash
-npm run preview
-```
-This will start the preview server at [http://localhost:4173/](http://localhost:5173)
+- **Home**: Dynamic introduction with animated text
+- **About**: Professional background and skills
+- **Experience**: Interactive timeline of work history
+- **Projects**: Showcase of technical projects
+- **Tech Stack**: 3D visualization of technologies
+- **Life**: Personal interests and hobbies
+- **Contact**: Email contact form with 3D earth animation
 
-## Contributing
+## 🎯 Repository Description
 
-As this is a personal portfolio, contributions may not be necessary. However, if you have any suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+A modern 3D portfolio website built with React.js and Three.js, featuring interactive visualizations, smooth animations, and responsive design. Showcases professional experience, projects, and technical skills through an engaging user interface.
