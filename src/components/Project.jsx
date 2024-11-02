@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import Tilt from "react-tilt";
 import Tilt from 'react-parallax-tilt'
 import { motion } from "framer-motion";
 import { styles } from "../styles";
@@ -39,7 +38,6 @@ const ProjectCard = ({
             scale: 1,
             speed: 450,
           }}
-          // className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full min-h-[660px] relative"
           className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full min-h-[660px] flex flex-col"
       >
         <div className="relative w-full h-[230px]">
@@ -59,7 +57,6 @@ const ProjectCard = ({
           )}
 
           <div className="absolute top-0 right-0 m-3 card-img_hover">
-            {/* <div className="absolute inset-0 flex justify-end m-3 card-img_hover"> */}
             <div
                 onClick={() => window.open(source_link, "_blank")}
                 className="project-link_button w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
@@ -73,9 +70,6 @@ const ProjectCard = ({
           </div>
         </div>
 
-        {/*<div className="mt-5 flex flex-col">*/}
-        {/*  <h3 className="text-white font-bold text-[24px]">{name}</h3>*/}
-        {/*  <p className="mt-2 text-secondary text-[14px]">*/}
         <div className="flex-grow flex flex-col">
           <h3 className="text-white font-bold text-[24px] mt-5">{name}</h3>
           <div className="mt-2 text-secondary text-[14px] flex-grow">
@@ -96,7 +90,6 @@ const ProjectCard = ({
           )}
         </div>
 
-        {/*<div className="mt-4 flex flex-wrap gap-2 absolute bottom-0.5 ">*/}
         <div className="mt-4 flex flex-wrap gap-2 pb-2">
           {tags.map((tag, index) => (
               <p

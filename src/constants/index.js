@@ -343,16 +343,6 @@ const projects = [
     website_link: 'https://www.chanmeng.live/',
     icon: 'github',
   },
-
-
-
-
-
-
-
-
-
-
   {
     name: 'AgriHire Solutions Equipment Management System',
     description: 'A comprehensive agricultural equipment rental management system developed using Python Flask and MySQL. I independently architected and implemented the complete solution featuring real-time inventory tracking across 18+ locations, role-based multi-user access control, and an intelligent booking system. Key achievements include developing responsive customer/staff portals, ECharts-powered analytics dashboards, dynamic pricing engine with promotional capabilities, and geolocation-based store finder integration. The system significantly improved business operations by reducing manual processing by 75%, decreasing booking errors by 90%, and increasing inventory utilization by 35%. Beyond technical implementation, I designed the secure database architecture and ensured seamless data integrity across all system components.',
@@ -424,21 +414,29 @@ const projects = [
     icon: 'github',
   },
   {
-    name: 'Exquisite GitHub README',
-    description: 'Crafting an inspiring GitHub README involved meticulous attention to detail and transparency. The design showcases projects and technologies through visually engaging elements and intuitive organization, ensuring ease of navigation. Each project segment is detailed with icons and concise descriptions, emphasizing key technologies and features. Dynamic GitHub stats, streaks, and trophies are integrated using third-party services like Vercel and Heroku app, enhancing interactivity. Animated GIFs and programming quotes add a light-hearted touch. The repository is public, fostering an open-source community spirit, encouraging learning, adaptation, and innovation.',
+    name: 'GitHub Profile README Template',
+    description: 'A modern GitHub profile template that transforms developer portfolios into engaging visual experiences. Built with advanced Markdown styling and GitHub integrations, featuring custom shields.io badges for 80+ tech stack visualizations, live GitHub metrics (Streaks, Trophies, language stats), responsive layouts with animated SVG workflows, and automated content updates through GitHub Actions. The template provides a professional foundation for developers to showcase their achievements while maintaining minimalist design principles.',
     tags: [
       {
-        name: 'Public Repository',
+        name: 'Markdown',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Interactive Elements',
+        name: 'GitHub Actions',
         color: 'green-text-gradient',
       },
       {
-        name: 'Third-Party Integrations',
+        name: 'SVG Animation',
         color: 'orange-text-gradient',
       },
+      {
+        name: 'Shields.io',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Technical Documentation',
+        color: 'purple-text-gradient',
+      }
     ],
     image: githubREADME,
     source_link: 'https://github.com/ChanMeng666/ChanMeng666',
