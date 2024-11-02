@@ -36,6 +36,7 @@ import {
   RosaParks,
   IndraNooyi,
   MichelleObama,
+  MinimalistGoodPost,
 } from '../assets';
 
 const navLinks = [
@@ -242,6 +243,32 @@ const projects = [
     image: smart_offline_data_collection_system,
     source_link: 'https://github.com/ChanMeng666/CORDE-Mobile-Application',
     website_link: 'https://overview-of-android-app--u8adh8r.gamma.site/',
+    icon: 'github',
+  },
+  {
+    name: 'Minimalist Good Post',
+    description: 'A modern minimalist blog platform built with Docusaurus 3.5.2, featuring interactive 3D visualizations powered by Three.js. The platform provides comprehensive guides on minimalist living, digital wellness, and space organization. It incorporates a thoughtfully crafted UI with Space Grotesk typography, seamless dark/light mode switching, and fully responsive design. Enhanced with MDX support and Mermaid diagrams for visual concept representation, the platform offers an engaging reading experience while maintaining its minimalist essence.',
+    tags: [
+      {
+        name: 'Docusaurus',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'React',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Three.js',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'MDX',
+        color: 'pink-text-gradient',
+      }
+    ],
+    image: MinimalistGoodPost,
+    source_link: 'https://github.com/ChanMeng666/minimalist-good-post',
+    website_link: 'https://minimalist-good-post.vercel.app/',
     icon: 'github',
   },
   {

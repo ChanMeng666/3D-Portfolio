@@ -65,6 +65,8 @@ import MichelleObama from "./Michelle Obama.jpg";
 import IndraNooyi from "./Indra Nooyi.jpg";
 import RosaParks from "./Rosa Parks.jpg";
 
+import MinimalistGoodPost from "./screenshots/MinimalistGoodPost.jpeg";
+
 export {
   backend,
   creator,
@@ -123,4 +125,5 @@ export {
   MichelleObama,
   IndraNooyi,
   RosaParks,
+  MinimalistGoodPost,
 };
