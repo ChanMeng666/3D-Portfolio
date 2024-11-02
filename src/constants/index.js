@@ -38,6 +38,7 @@ import {
   MichelleObama,
   MinimalistGoodPost,
   JourneyOfReincarnation2,
+  portfolio,
 } from '../assets';
 
 const navLinks = [
@@ -300,6 +301,36 @@ const projects = [
     image: JourneyOfReincarnation2,
     source_link: 'https://github.com/ChanMeng666/journey-of-reincarnation2',
     website_link: 'https://journey-of-reincarnation2.vercel.app/',
+    icon: 'github',
+  },
+  {
+    name: '3D Interactive Portfolio',
+    description: 'A modern portfolio website featuring immersive 3D elements and smooth animations. Independently developed all aspects including brand identity, UI/UX design, and implementation. Built with React.js and Three.js, featuring custom 3D components, dynamic project showcases, and professional timeline. Enhanced with Framer Motion animations and EmailJS integration to deliver an engaging user experience while maintaining optimal performance across devices.',
+    tags: [
+      {
+        name: 'React.js',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Three.js',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Framer Motion',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'TailwindCSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'EmailJS',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: portfolio,
+    source_link: 'https://github.com/ChanMeng666/3D-Portfolio',
+    website_link: 'https://www.chanmeng.live/',
     icon: 'github',
   },
   {
