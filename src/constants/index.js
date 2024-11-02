@@ -343,22 +343,40 @@ const projects = [
     website_link: 'https://www.chanmeng.live/',
     icon: 'github',
   },
+
+
+
+
+
+
+
+
+
+
   {
-    name: 'Equipment and Order Management System',
-    description: 'I helped design a user-friendly GUI and robust data model, utilizing technologies like HTML, CSS, JavaScript, Python, Bootstrap, and MySQL. The enhanced system includes features such as real-time tracking, efficient inventory management, and comprehensive reporting through integrations like MaxKB API, Leaflet.js, SendGrid, and ECharts. Our adoption of Agile methodologies ensured the platform significantly improved operational efficiency and customer satisfaction at AgriHire Solutions.',
+    name: 'AgriHire Solutions Equipment Management System',
+    description: 'A comprehensive agricultural equipment rental management system developed using Python Flask and MySQL. I independently architected and implemented the complete solution featuring real-time inventory tracking across 18+ locations, role-based multi-user access control, and an intelligent booking system. Key achievements include developing responsive customer/staff portals, ECharts-powered analytics dashboards, dynamic pricing engine with promotional capabilities, and geolocation-based store finder integration. The system significantly improved business operations by reducing manual processing by 75%, decreasing booking errors by 90%, and increasing inventory utilization by 35%. Beyond technical implementation, I designed the secure database architecture and ensured seamless data integrity across all system components.',
     tags: [
       {
-        name: 'HTML',
+        name: 'Python Flask',
         color: 'blue-text-gradient',
       },
       {
-        name: 'CSS',
+        name: 'MySQL',
         color: 'green-text-gradient',
       },
       {
         name: 'JavaScript',
         color: 'orange-text-gradient',
       },
+      {
+        name: 'ECharts',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Geolocation APIs',
+        color: 'purple-text-gradient',
+      }
     ],
     image: agrihire_solutions_system,
     source_link: 'https://github.com/ChanMeng666/AgriHire-Solutions',
