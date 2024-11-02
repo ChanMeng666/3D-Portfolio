@@ -39,6 +39,7 @@ import {
   MinimalistGoodPost,
   JourneyOfReincarnation2,
   portfolio,
+  CORDE_Mobile,
 } from '../assets';
 
 const navLinks = [
@@ -226,27 +227,36 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'Offline Data Collection',
-    description: 'As a key participant in the development of CORDE\'s mobile app, this project facilitates offline data collection and synchronization with online databases when connectivity is restored. It incorporates ArcGIS to display crucial asset-related information, enhancing operational efficiency and data precision. The app, crafted using a hybrid of React Native and native Android, optimizes cross-platform performance. Native Base is employed for its intuitive UI, ensuring user engagement. API testing was conducted with APIfox, alongside comprehensive device and simulator testing to ensure reliability and compatibility.',
+    name: 'CORDE Mobile Field Operations App',
+    description: 'An enterprise-grade mobile application independently developed for CORDE NZ to transform their field operations. As the sole front-end developer, I delivered a comprehensive offline-first solution featuring intelligent background sync, GPS integration, and photo capture capabilities. I designed and implemented all aspects including UI/UX with dark/light themes, SQLite database architecture, work order management systems, and real-time sync monitoring. Beyond front-end development, I contributed to backend API integration, managed testing and build generation, while ensuring seamless data integrity across offline/online states.',
     tags: [
       {
         name: 'React Native',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Android Native',
+        name: 'TypeScript',
         color: 'green-text-gradient',
       },
       {
-        name: 'Native Base',
+        name: 'SQLite',
         color: 'orange-text-gradient',
       },
+      {
+        name: 'Native Base',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'API Integration',
+        color: 'purple-text-gradient',
+      }
     ],
-    image: smart_offline_data_collection_system,
-    source_link: 'https://github.com/ChanMeng666/CORDE-Mobile-Application',
-    website_link: 'https://overview-of-android-app--u8adh8r.gamma.site/',
-    icon: 'github',
+    image: CORDE_Mobile,
+    source_link: 'https://corde-mobile-application-4yw7mtt.gamma.site/',
+    website_link: 'https://corde.nz/',
+    icon: 'mobile',
   },
+
   {
     name: 'Minimalist Good Post',
     description: 'A modern minimalist blog platform built with Docusaurus 3.5.2, featuring interactive 3D visualizations powered by Three.js. The platform provides comprehensive guides on minimalist living, digital wellness, and space organization. It incorporates a thoughtfully crafted UI with Space Grotesk typography, seamless dark/light mode switching, and fully responsive design. Enhanced with MDX support and Mermaid diagrams for visual concept representation, the platform offers an engaging reading experience while maintaining its minimalist essence.',

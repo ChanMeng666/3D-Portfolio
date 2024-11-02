@@ -68,6 +68,7 @@ import RosaParks from "./Rosa Parks.jpg";
 import MinimalistGoodPost from "./screenshots/MinimalistGoodPost.jpeg";
 import JourneyOfReincarnation2 from "./screenshots/journey-of-reincarnation2.jpeg";
 import portfolio from "./screenshots/portfolio.png";
+import CORDE_Mobile from "./screenshots/CORDE.png";
 
 export {
   backend,
@@ -130,4 +131,5 @@ export {
   MinimalistGoodPost,
   JourneyOfReincarnation2,
   portfolio,
+  CORDE_Mobile,
 };
