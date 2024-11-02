@@ -37,6 +37,7 @@ import {
   IndraNooyi,
   MichelleObama,
   MinimalistGoodPost,
+  JourneyOfReincarnation2,
 } from '../assets';
 
 const navLinks = [
@@ -269,6 +270,36 @@ const projects = [
     image: MinimalistGoodPost,
     source_link: 'https://github.com/ChanMeng666/minimalist-good-post',
     website_link: 'https://minimalist-good-post.vercel.app/',
+    icon: 'github',
+  },
+  {
+    name: 'Journey of Reincarnation',
+    description: 'An innovative web application that simulates reincarnation experiences through interactive world maps and dynamic statistics. Independently developed all aspects including design and implementation. Built with Next.js 14 and TypeScript, featuring comprehensive data visualization, bilingual support, theme switching, and immersive audio system. Enhanced with Framer Motion animations and special events to deliver an engaging user experience while exploring global demographic diversity.',
+    tags: [
+      {
+        name: 'Next.js',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'TypeScript',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'React',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'Tailwind CSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Chart.js',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: JourneyOfReincarnation2,
+    source_link: 'https://github.com/ChanMeng666/journey-of-reincarnation2',
+    website_link: 'https://journey-of-reincarnation2.vercel.app/',
     icon: 'github',
   },
   {

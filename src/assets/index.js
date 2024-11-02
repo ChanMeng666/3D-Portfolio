@@ -66,6 +66,7 @@ import IndraNooyi from "./Indra Nooyi.jpg";
 import RosaParks from "./Rosa Parks.jpg";
 
 import MinimalistGoodPost from "./screenshots/MinimalistGoodPost.jpeg";
+import JourneyOfReincarnation2 from "./screenshots/journey-of-reincarnation2.jpeg";
 
 export {
   backend,
@@ -126,4 +127,5 @@ export {
   IndraNooyi,
   RosaParks,
   MinimalistGoodPost,
+  JourneyOfReincarnation2,
 };
