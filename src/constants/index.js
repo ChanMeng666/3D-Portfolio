@@ -26,7 +26,6 @@ import {
   githubREADME,
   EastCoastAnglersClub,
   swimmingClub,
-  smart_offline_data_collection_system,
   agrihire_solutions_system,
   hobby_tidying,
   hobby_programming,

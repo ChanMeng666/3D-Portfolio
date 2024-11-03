@@ -44,7 +44,6 @@ import AgrihireSolutions from "./company/AgrihireSolutions.png"
 import SwimmingClub from "./company/SwimmingClub.png"
 import MathematicsTeacher from "./company/MathematicsTeacher.png"
 
-import smart_offline_data_collection_system from "./screenshots/smart_offline_data_collection_system.png";
 import agrihire_solutions_system from "./screenshots/agrihire_solutions_system.jpeg";
 import EastCoastAnglersClub from "./screenshots/EastCoastAnglersClub.jpeg";
 import githubREADME from "./screenshots/githubREADME.jpeg";
@@ -107,7 +106,6 @@ export {
   AgrihireSolutions,
   SwimmingClub,
   MathematicsTeacher,
-  smart_offline_data_collection_system,
   agrihire_solutions_system,
   EastCoastAnglersClub,
   swimmingClub,
