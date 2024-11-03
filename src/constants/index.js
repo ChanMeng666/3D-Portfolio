@@ -374,25 +374,33 @@ const projects = [
     icon: 'github',
   },
   {
-    name: 'Swimming Club Management System',
-    description: 'This system revolutionized club operations by enhancing user engagement with a user-friendly interface and secured transactions. I utilized Python, Flask, HTML, CSS, Jinja, JavaScript, Bootstrap, and MySQL to deliver significant improvements in operational efficiency and user satisfaction. My key contributions included designing a comprehensive SQL data model, crafting an intuitive GUI, and enhancing backend functionality. Through agile development, we created a scalable and robust platform poised for future expansion.',
+    name: 'Swimming Club Management System (SCMS)',
+    description: 'A comprehensive web-based management system developed using Python Flask and MySQL to streamline community swimming club operations. I designed and implemented role-based access control with dedicated portals for members (class booking, profile management), instructors (schedule management, attendance tracking), and managers (facility allocation, financial reporting). Key achievements include developing automated membership management with smart renewal tracking, real-time class booking with conflict prevention, and analytics dashboards for performance monitoring. The system features a scalable MySQL database design, secure Flask-Hashing authentication, and robust transaction management, significantly improving operational efficiency through process automation and real-time data insights.',
     tags: [
       {
-        name: 'Python',
+        name: 'Python Flask',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Flask',
+        name: 'MySQL',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'JavaScript',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'Bootstrap',
         color: 'pink-text-gradient',
       },
       {
-        name: 'Jinja',
-        color: 'orange-text-gradient',
-      },
+        name: 'Flask-Hashing',
+        color: 'purple-text-gradient',
+      }
     ],
     image: swimmingClub,
     source_link: 'https://github.com/ChanMeng666/Countryside-Community-Swimming-Club',
-    website_link: 'https://github.com/ChanMeng666/Countryside-Community-Swimming-Club',
+    website_link: 'https://countryside-community-sw-6wqr4e1.gamma.site/',
     icon: 'github',
   },
   {
