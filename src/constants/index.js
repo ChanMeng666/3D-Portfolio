@@ -40,6 +40,7 @@ import {
   JourneyOfReincarnation2,
   portfolio,
   CORDE_Mobile,
+  MNIST_Analysis,
 } from '../assets';
 
 const navLinks = [
@@ -451,6 +452,38 @@ const projects = [
     website_link: 'https://github.com/ChanMeng666',
     icon: 'github',
   },
+
+
+  {
+    name: 'MNIST Neural Network Analysis Project',
+    description: 'A comprehensive machine learning implementation comparing three neural network architectures for MNIST handwritten digit recognition. I developed and analyzed a Deep CNN achieving 99.71% accuracy, a basic MLP reaching 99.05% accuracy, and an optimized model attaining 97.86% accuracy while reducing parameters by 79%. Key technical achievements include implementing advanced feature importance visualization systems, developing occlusion sensitivity analysis for model interpretability, and creating thorough error analysis frameworks. The project demonstrates significant optimization in neural architecture design, featuring robust data processing pipelines with feature selection, augmentation techniques, and comprehensive performance visualization using Matplotlib and Seaborn. Beyond model development, I engineered efficient data preprocessing workflows and ensured thorough documentation of comparative analysis across all architectures.',
+    tags: [
+      {
+        name: 'TensorFlow/Keras',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Python',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'scikit-learn',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'Deep Learning',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Computer Vision',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: MNIST_Analysis,
+    source_link: 'https://github.com/ChanMeng666/MNIST-Handwritten-Digit-Recognition-Project',
+    website_link: 'https://github.com/ChanMeng666/MNIST-Handwritten-Digit-Recognition-Project/blob/main/hand-written-digit-recognition_final.ipynb',
+    icon: 'github',
+  }
 ];
 
 const footerIcons = [

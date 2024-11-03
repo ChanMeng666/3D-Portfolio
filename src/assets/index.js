@@ -69,6 +69,7 @@ import MinimalistGoodPost from "./screenshots/MinimalistGoodPost.jpeg";
 import JourneyOfReincarnation2 from "./screenshots/journey-of-reincarnation2.jpeg";
 import portfolio from "./screenshots/portfolio.png";
 import CORDE_Mobile from "./screenshots/CORDE.png";
+import MNIST_Analysis from "./screenshots/MNIST_Analysis.png";
 
 export {
   backend,
@@ -132,4 +133,5 @@ export {
   JourneyOfReincarnation2,
   portfolio,
   CORDE_Mobile,
+  MNIST_Analysis,
 };
