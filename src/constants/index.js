@@ -40,6 +40,7 @@ import {
   portfolio,
   CORDE_Mobile,
   MNIST_Analysis,
+  friendscope,
 } from '../assets';
 
 const navLinks = [
@@ -281,6 +282,36 @@ const projects = [
     image: MinimalistGoodPost,
     source_link: 'https://github.com/ChanMeng666/minimalist-good-post',
     website_link: 'https://minimalist-good-post.vercel.app/',
+    icon: 'github',
+  },
+  {
+    name: 'FriendScope - Scientific Friendship Assessment',
+    description: 'A modern web application that helps users evaluate and strengthen relationships through data-driven insights. Independently developed all aspects including scientific assessment methodology, interactive data visualization, and privacy-focused architecture. Built with Next.js and TypeScript, featuring comprehensive analysis across 10 key friendship dimensions, radar charts for trend visualization, and personalized PDF report generation. Enhanced with Framer Motion animations and Zustand state management to deliver an engaging yet secure experience while maintaining optimal performance.',
+    tags: [
+      {
+        name: 'Next.js',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'TypeScript',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Recharts',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'TailwindCSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Zustand',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: friendscope,
+    source_link: 'https://github.com/ChanMeng666/friendscope',
+    website_link: 'https://friendscope.vercel.app',
     icon: 'github',
   },
   {

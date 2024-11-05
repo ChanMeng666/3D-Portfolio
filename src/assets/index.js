@@ -69,6 +69,7 @@ import JourneyOfReincarnation2 from "./screenshots/journey-of-reincarnation2.jpe
 import portfolio from "./screenshots/portfolio.png";
 import CORDE_Mobile from "./screenshots/CORDE.png";
 import MNIST_Analysis from "./screenshots/MNIST_Analysis.png";
+import friendscope from "./screenshots/friendscope.png";
 
 export {
   backend,
@@ -132,4 +133,5 @@ export {
   portfolio,
   CORDE_Mobile,
   MNIST_Analysis,
+  friendscope,
 };
