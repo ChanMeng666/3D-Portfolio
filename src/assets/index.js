@@ -70,6 +70,7 @@ import portfolio from "./screenshots/portfolio.png";
 import CORDE_Mobile from "./screenshots/CORDE.png";
 import MNIST_Analysis from "./screenshots/MNIST_Analysis.png";
 import friendscope from "./screenshots/friendscope.png";
+import Forward_with_Her from "./screenshots/Forward_with_Her.png";
 
 export {
   backend,
@@ -134,4 +135,5 @@ export {
   CORDE_Mobile,
   MNIST_Analysis,
   friendscope,
+  Forward_with_Her,
 };

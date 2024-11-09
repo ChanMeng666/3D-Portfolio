@@ -41,6 +41,7 @@ import {
   CORDE_Mobile,
   MNIST_Analysis,
   friendscope,
+  Forward_with_Her,
 } from '../assets';
 
 const navLinks = [
@@ -284,6 +285,38 @@ const projects = [
     website_link: 'https://minimalist-good-post.vercel.app/',
     icon: 'github',
   },
+
+  {
+    name: 'Forward with Her Mentorship Website',
+    description: 'An immersive website independently developed for Forward with Her, a UN Women-supported mentorship program empowering women in China\'s tech industry. As the sole developer and designer, I delivered a comprehensive digital solution including an interactive Next.js website featuring custom 3D visualization that responds to user scrolling, seamless bilingual support, and responsive design optimized for all devices. Beyond web development, I created promotional posters using Recraft AI and crafted a custom 3D model with dynamic textures in Spline, maintaining cohesive visual identity across all platforms while ensuring optimal performance and accessibility.',
+    tags: [
+      {
+        name: 'Next.js',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'Three.js',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'TypeScript',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'Tailwind CSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'Spline',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: Forward_with_Her,
+    source_link: 'https://github.com/ChanMeng666/3d-model-viewer',
+    website_link: 'https://forward-with-her.vercel.app/',
+    icon: 'github',
+  },
+
   {
     name: 'FriendScope - Scientific Friendship Assessment',
     description: 'A modern web application that helps users evaluate and strengthen relationships through data-driven insights. Independently developed all aspects including scientific assessment methodology, interactive data visualization, and privacy-focused architecture. Built with Next.js and TypeScript, featuring comprehensive analysis across 10 key friendship dimensions, radar charts for trend visualization, and personalized PDF report generation. Enhanced with Framer Motion animations and Zustand state management to deliver an engaging yet secure experience while maintaining optimal performance.',
