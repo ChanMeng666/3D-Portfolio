@@ -71,6 +71,7 @@ import CORDE_Mobile from "./screenshots/CORDE.png";
 import MNIST_Analysis from "./screenshots/MNIST_Analysis.png";
 import friendscope from "./screenshots/friendscope.png";
 import Forward_with_Her from "./screenshots/Forward_with_Her.png";
+import LibraryManagementSystem from "./screenshots/LibraryManagementSystem.jpeg";
 
 export {
   backend,
@@ -136,4 +137,5 @@ export {
   MNIST_Analysis,
   friendscope,
   Forward_with_Her,
+  LibraryManagementSystem,
 };

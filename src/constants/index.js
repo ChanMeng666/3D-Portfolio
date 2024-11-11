@@ -42,6 +42,7 @@ import {
   MNIST_Analysis,
   friendscope,
   Forward_with_Her,
+  LibraryManagementSystem,
 } from '../assets';
 
 const navLinks = [
@@ -347,6 +348,7 @@ const projects = [
     website_link: 'https://friendscope.vercel.app',
     icon: 'github',
   },
+
   {
     name: 'Journey of Reincarnation',
     description: 'An innovative web application that simulates reincarnation experiences through interactive world maps and dynamic statistics. Independently developed all aspects including design and implementation. Built with Next.js 14 and TypeScript, featuring comprehensive data visualization, bilingual support, theme switching, and immersive audio system. Enhanced with Framer Motion animations and special events to deliver an engaging user experience while exploring global demographic diversity.',
@@ -377,6 +379,38 @@ const projects = [
     website_link: 'https://journey-of-reincarnation2.vercel.app/',
     icon: 'github',
   },
+
+  {
+    name: 'Library Management System',
+    description: 'A modern full-stack library management system built with Next.js 15 and Supabase. Features real-time book tracking, secure authentication, and intuitive borrowing system. Implemented comprehensive features including automated availability updates and flexible search functionality. The responsive UI is crafted with shadcn/ui components and Tailwind CSS, offering dark mode support and mobile-first design. Designed database architecture and real-time synchronization ensuring seamless performance across all user interactions.',
+    tags: [
+      {
+        name: 'Next.js',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'TypeScript',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'Supabase',
+        color: 'orange-text-gradient',
+      },
+      {
+        name: 'Tailwind CSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'shadcn/ui',
+        color: 'purple-text-gradient',
+      }
+    ],
+    image: LibraryManagementSystem,
+    source_link: 'https://github.com/ChanMeng666/library-management-system',
+    website_link: 'https://github.com/ChanMeng666/library-management-system',
+    icon: 'github',
+  },
+
   {
     name: '3D Interactive Portfolio',
     description: 'A modern portfolio website featuring immersive 3D elements and smooth animations. Independently developed all aspects including brand identity, UI/UX design, and implementation. Built with React.js and Three.js, featuring custom 3D components, dynamic project showcases, and professional timeline. Enhanced with Framer Motion animations and EmailJS integration to deliver an engaging user experience while maintaining optimal performance across devices.',
