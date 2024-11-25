@@ -231,7 +231,7 @@ const testimonials = [
 const projects = [
   {
     name: 'CORDE Mobile Field Operations App',
-    description: 'An enterprise-grade mobile application independently developed for CORDE NZ to transform their field operations. As the sole front-end developer, I delivered a comprehensive offline-first solution featuring intelligent background sync, GPS integration, and photo capture capabilities. I designed and implemented all aspects including UI/UX with dark/light themes, SQLite database architecture, work order management systems, and real-time sync monitoring. Beyond front-end development, I contributed to backend API integration, managed testing and build generation, while ensuring seamless data integrity across offline/online states.',
+    description: 'Developed a comprehensive offline-first mobile app for CORDE NZ with GPS tracking, photo capture, and intelligent sync capabilities, enabling efficient field operations.',
     tags: [
       {
         name: 'React Native',
@@ -262,7 +262,7 @@ const projects = [
 
   {
     name: 'Minimalist Good Post',
-    description: 'A modern minimalist blog platform built with Docusaurus 3.5.2, featuring interactive 3D visualizations powered by Three.js. The platform provides comprehensive guides on minimalist living, digital wellness, and space organization. It incorporates a thoughtfully crafted UI with Space Grotesk typography, seamless dark/light mode switching, and fully responsive design. Enhanced with MDX support and Mermaid diagrams for visual concept representation, the platform offers an engaging reading experience while maintaining its minimalist essence.',
+    description: 'Created a modern minimalist blog with Docusaurus featuring interactive 3D visualizations, focused on minimalist living and digital wellness guides.',
     tags: [
       {
         name: 'Docusaurus',
@@ -289,7 +289,7 @@ const projects = [
 
   {
     name: 'Forward with Her Mentorship Website',
-    description: 'An immersive website independently developed for Forward with Her, a UN Women-supported mentorship program empowering women in China\'s tech industry. As the sole developer and designer, I delivered a comprehensive digital solution including an interactive Next.js website featuring custom 3D visualization that responds to user scrolling, seamless bilingual support, and responsive design optimized for all devices. Beyond web development, I created promotional posters using Recraft AI and crafted a custom 3D model with dynamic textures in Spline, maintaining cohesive visual identity across all platforms while ensuring optimal performance and accessibility.',
+    description: 'Developed an immersive bilingual website for Forward with Her - a UN Women tech mentorship program - featuring interactive 3D visualizations and responsive design.',
     tags: [
       {
         name: 'Next.js',
@@ -320,7 +320,7 @@ const projects = [
 
   {
     name: 'FriendScope - Scientific Friendship Assessment',
-    description: 'A modern web application that helps users evaluate and strengthen relationships through data-driven insights. Independently developed all aspects including scientific assessment methodology, interactive data visualization, and privacy-focused architecture. Built with Next.js and TypeScript, featuring comprehensive analysis across 10 key friendship dimensions, radar charts for trend visualization, and personalized PDF report generation. Enhanced with Framer Motion animations and Zustand state management to deliver an engaging yet secure experience while maintaining optimal performance.',
+    description: 'Built a data-driven relationship evaluation web app with scientific assessments, interactive visualizations, and personalized reports across 10 friendship dimensions.',
     tags: [
       {
         name: 'Next.js',
@@ -351,7 +351,7 @@ const projects = [
 
   {
     name: 'Journey of Reincarnation',
-    description: 'An innovative web application that simulates reincarnation experiences through interactive world maps and dynamic statistics. Independently developed all aspects including design and implementation. Built with Next.js 14 and TypeScript, featuring comprehensive data visualization, bilingual support, theme switching, and immersive audio system. Enhanced with Framer Motion animations and special events to deliver an engaging user experience while exploring global demographic diversity.',
+    description: 'Developed an interactive reincarnation simulator web app featuring world maps, dynamic statistics, and bilingual support to explore global demographic diversity.',
     tags: [
       {
         name: 'Next.js',
@@ -382,7 +382,7 @@ const projects = [
 
   {
     name: 'Library Management System',
-    description: 'A modern full-stack library management system built with Next.js 15 and Supabase. Features real-time book tracking, secure authentication, and intuitive borrowing system. Implemented comprehensive features including automated availability updates and flexible search functionality. The responsive UI is crafted with shadcn/ui components and Tailwind CSS, offering dark mode support and mobile-first design. Designed database architecture and real-time synchronization ensuring seamless performance across all user interactions.',
+    description: 'Built a full-stack library management system with Next.js and Supabase, featuring real-time book tracking, secure authentication, and responsive design.',
     tags: [
       {
         name: 'Next.js',
@@ -413,7 +413,7 @@ const projects = [
 
   {
     name: '3D Interactive Portfolio',
-    description: 'A modern portfolio website featuring immersive 3D elements and smooth animations. Independently developed all aspects including brand identity, UI/UX design, and implementation. Built with React.js and Three.js, featuring custom 3D components, dynamic project showcases, and professional timeline. Enhanced with Framer Motion animations and EmailJS integration to deliver an engaging user experience while maintaining optimal performance across devices.',
+    description: 'Developed a modern portfolio website with immersive 3D elements, featuring custom Three.js components and smooth Framer Motion animations.',
     tags: [
       {
         name: 'React.js',
@@ -443,7 +443,7 @@ const projects = [
   },
   {
     name: 'AgriHire Solutions Equipment Management System',
-    description: 'A comprehensive agricultural equipment rental management system developed using Python Flask and MySQL. I independently architected and implemented the complete solution featuring real-time inventory tracking across 18+ locations, role-based multi-user access control, and an intelligent booking system. Key achievements include developing responsive customer/staff portals, ECharts-powered analytics dashboards, dynamic pricing engine with promotional capabilities, and geolocation-based store finder integration. The system significantly improved business operations by reducing manual processing by 75%, decreasing booking errors by 90%, and increasing inventory utilization by 35%. Beyond technical implementation, I designed the secure database architecture and ensured seamless data integrity across all system components.',
+    description: 'Developed a comprehensive agricultural equipment rental system with Flask and MySQL, featuring multi-location inventory tracking and automated booking, reducing manual processing by 75% and booking errors by 90%.',
     tags: [
       {
         name: 'Python Flask',
@@ -473,7 +473,7 @@ const projects = [
   },
   {
     name: 'Swimming Club Management System (SCMS)',
-    description: 'A comprehensive web-based management system developed using Python Flask and MySQL to streamline community swimming club operations. I designed and implemented role-based access control with dedicated portals for members (class booking, profile management), instructors (schedule management, attendance tracking), and managers (facility allocation, financial reporting). Key achievements include developing automated membership management with smart renewal tracking, real-time class booking with conflict prevention, and analytics dashboards for performance monitoring. The system features a scalable MySQL database design, secure Flask-Hashing authentication, and robust transaction management, significantly improving operational efficiency through process automation and real-time data insights.',
+    description: 'Developed a comprehensive swimming club management system with Flask and MySQL, featuring role-based portals for automated class booking, membership management, and performance analytics.',
     tags: [
       {
         name: 'Python Flask',
@@ -521,7 +521,7 @@ const projects = [
   },
   {
     name: 'GitHub Profile README Template',
-    description: 'A modern GitHub profile template that transforms developer portfolios into engaging visual experiences. Built with advanced Markdown styling and GitHub integrations, featuring custom shields.io badges for 80+ tech stack visualizations, live GitHub metrics (Streaks, Trophies, language stats), responsive layouts with animated SVG workflows, and automated content updates through GitHub Actions. The template provides a professional foundation for developers to showcase their achievements while maintaining minimalist design principles.',
+    description: 'Created a dynamic GitHub profile template with custom tech stack badges, live metrics, and automated updates through GitHub Actions for engaging developer portfolios.',
     tags: [
       {
         name: 'Markdown',
@@ -553,7 +553,7 @@ const projects = [
 
   {
     name: 'MNIST Neural Network Analysis Project',
-    description: 'A comprehensive machine learning implementation comparing three neural network architectures for MNIST handwritten digit recognition. I developed and analyzed a Deep CNN achieving 99.71% accuracy, a basic MLP reaching 99.05% accuracy, and an optimized model attaining 97.86% accuracy while reducing parameters by 79%. Key technical achievements include implementing advanced feature importance visualization systems, developing occlusion sensitivity analysis for model interpretability, and creating thorough error analysis frameworks. The project demonstrates significant optimization in neural architecture design, featuring robust data processing pipelines with feature selection, augmentation techniques, and comprehensive performance visualization using Matplotlib and Seaborn. Beyond model development, I engineered efficient data preprocessing workflows and ensured thorough documentation of comparative analysis across all architectures.',
+    description: 'A deep learning project comparing three neural networks (CNN: 99.71%, MLP: 99.05%, optimized model: 97.86%) for MNIST digit recognition, featuring advanced visualization and analysis techniques.',
     tags: [
       {
         name: 'TensorFlow/Keras',
