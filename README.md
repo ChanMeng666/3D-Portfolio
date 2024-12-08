@@ -9,7 +9,18 @@
 
 <br/>
 
-![portfolio-preview](public/preview.png)
+![屏幕截图 2024-11-02 225633](https://github.com/user-attachments/assets/012e4c87-edbc-407e-944b-f05b00be3e87)
+
+![屏幕截图 2024-11-02 225905](https://github.com/user-attachments/assets/652d51bc-e3cd-4915-a93b-b1ff9bfafa3a)
+
+![屏幕截图 2024-11-02 225924](https://github.com/user-attachments/assets/81b718f5-7114-42f3-9eed-8a1ca5ab0d71)
+
+![屏幕截图 2024-11-02 225953](https://github.com/user-attachments/assets/11729e9d-1a8b-4969-8233-82dd2985211d)
+
+![屏幕截图 2024-11-02 230011](https://github.com/user-attachments/assets/69bad2e9-10d2-4d4b-8016-f183590adbf1)
+
+![屏幕截图 2024-12-06 010757](https://github.com/user-attachments/assets/f8ccf9af-66f4-46ba-8af2-baf74878a170)
+
 
 # ⚡ Key Features
 Experience a modern portfolio website that seamlessly blends creativity with professionalism:
